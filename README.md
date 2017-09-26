@@ -135,6 +135,6 @@ http://amsterdamsmartbot.herokuapp.com/
 <p>
   <a href="https://core.telegram.org/"><img align="left"  src="https://mutaz.net/img/icons/android/256/30.png"></a>
   <a href="https://www.python.org/downloads/release/python-352/"><img align="center"  src="http://austin.kidsoutandabout.com/sites/default/files/Python_0.png"></a>
-  <a href="https://enterprise.google.com/intl/en_uk/maps/"> <img align="right"  src="http://www.webantena.net/wp-content/uploads/2016/06/googlemapsapi.png"></a>
+  <a href="https://enterprise.google.com/intl/en_uk/maps/products/mapsapi.html"> <img align="right"  src="http://www.webantena.net/wp-content/uploads/2016/06/googlemapsapi.png"></a>
 </p>
 
