@@ -6,13 +6,8 @@ This chatbot has been developed to be used in Amsterdam smart city environment.
 It is based on an interactive conversation with the user.
 The specialization is for searching parking and electric charge points in AMSTERDAM.
 
-[![Package Version](https://d1q6f0aelx0por.cloudfront.net/product-logos/6bd224a8-e827-4593-b5b4-483338e9999e-python.png)](https://www.python.org/downloads/release/python-352/)
+[![Package Version](https://pimg-guru.com/1/645/1645363/python_635593162234787477_guruImgLarge_fab83907-b086-4cdd-8ab7-ca1dfb1d3f92.jpg)](https://www.python.org/downloads/release/python-352/)
 [![Package Version](https://res.cloudinary.com/siftery/image/upload/v1444323049/v1/p/products/django.png)](https://www.djangoproject.com/start/overview/)
-[![Build Status](https://travis-ci.org/gunthercox/ChatterBot.svg?branch=master)](https://travis-ci.org/gunthercox/ChatterBot)
-[![Documentation Status](https://readthedocs.org/projects/chatterbot/badge/?version=stable)](http://chatterbot.readthedocs.io/en/stable/?badge=stable)
-[![Coverage Status](https://img.shields.io/coveralls/gunthercox/ChatterBot.svg)](https://coveralls.io/r/gunthercox/ChatterBot)
-[![Code Climate](https://codeclimate.com/github/gunthercox/ChatterBot/badges/gpa.svg)](https://codeclimate.com/github/gunthercox/ChatterBot)
-[![Join the chat at https://gitter.im/chatter_bot/Lobby](https://badges.gitter.im/chatter_bot/Lobby.svg)](https://gitter.im/chatter_bot/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 An example of typical input would be something like this:
 
