@@ -125,20 +125,9 @@ width="100" height="100"
 
 # Technologies
 
-<p align="center">
+<p>
   <img align="left"  src="https://www.iconattitude.com/icons/open_icon_library/apps/png/256/postgis.png" href="http://postgis.net/">
+  <img align="center"  src="https://nedbatchelder.com/pix/django-icon-256.png" href="https://www.djangoproject.com/start/overview/">
   <img align="right"  src="https://cdn.iconscout.com/public/images/icon/free/png-256/heroku-company-brand-logo-3973db91061d38cd-256x256.png" href="https://www.heroku.com/">
 </p>
-
-
-[![Telegram Version](https://i.imgur.com/h8OS44o.jpg)](https://core.telegram.org/)
-
-[![Python Version](https://i.imgur.com/7jjFZ3zb.png)](https://www.python.org/downloads/release/python-352/)
-
-[![Django Version](https://res.cloudinary.com/siftery/image/upload/v1444323049/v1/p/products/django.png)](https://www.djangoproject.com/start/overview/)
-
-[![PostGIS Version](https://www.iconattitude.com/icons/open_icon_library/apps/png/256/postgis.png)](http://postgis.net/)
-
-[![Heroku Version](https://cdn.iconscout.com/public/images/icon/free/png-256/heroku-company-brand-logo-3973db91061d38cd-256x256.png)](https://www.heroku.com/)
-
 
