@@ -1,5 +1,3 @@
-![AmsterdamSMARTBOT: Machine learning in Python](https://i.imgur.com/KjrawLzb.png)
-
 <p align="center">
   <img width="256" height="288" src="https://i.imgur.com/KjrawLz.png">
 </p>
