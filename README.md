@@ -55,7 +55,7 @@ Install all the required libraries through this command:
 pip install -r requirements.txt
 ```
 
-Database settings
+Database settings:
 
 Execute these commands to create tables and relations into local database
 ```
@@ -64,12 +64,12 @@ python manage.py migrate
 python manage.py createsuperuser
 ```
 
-Run chatbot script
+Run chatbot script:
 ```
 python main.py
 ```
 
-Run web application
+Run web application:
 ```
 python manage.py runserver 0.0.0.0:8000
 ```
@@ -86,17 +86,17 @@ git push heroku master
 heroku config:set DISABLE_COLLECTSTATIC=0 
 ```
 
-Downgrade from HEROKU-16 to CEDAR-14 (GDAL library not supported on Heroku-16)
+Downgrade from HEROKU-16 to CEDAR-14 (GDAL library not supported on Heroku-16):
 ```
 heroku stack:set cedar-14 
 git push heroku master
 ```
 
-Database settings
+Database settings:
 
 First of all, is needed to update database's informations from Heroku Dashboard into the settings.py file. In settings.py modify the dictionary DATABASES with the new informations (Engine, Host, User, Name, Password, Port)
 
-Execute these commands to create tables and relations into heroku database
+Execute these commands to create tables and relations into heroku database:
 ```
 heroku run python manage.py makemigrations
 heroku run python manage.py migrate
