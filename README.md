@@ -11,65 +11,37 @@ The specialization is for searching parking and electric charge points in AMSTER
 [![Package Version](https://res.cloudinary.com/siftery/image/upload/v1444323049/v1/p/products/django.png)](https://www.djangoproject.com/start/overview/)
 
 [![Package Version](https://i.imgur.com/h8OS44o.jpg)](https://core.telegram.org/)
+
 An example of typical input would be something like this:
 
 > **user:** Good morning! How are you doing?  
-> **bot:**  I am doing very well, thank you for asking.  
-> **user:** You're welcome.
-> **bot:** Do you like hats?  
+> **smartBOT:**  Hello and how are you this morning? I'm doing great, how about you?  
+> **user:** I'm fine aswell.
+> **smartBOT:** Glad to hear it.  
+> **user:** Can you find me the closest parking in Amsterdam?
+> **smartBOT:** Yes, I was created to search parkings in Amsterdam.
+> **smartBOT:** Would you mind shering your location to search the closest parking? ...  
 
 ## How it works
 
-An untrained instance of ChatterBot starts off with no knowledge of how to communicate. Each time a user enters a statement, the library saves the text that they entered and the text that the statement was in response to. As ChatterBot receives more input the number of responses that it can reply and the accuracy of each response in relation to the input statement increase. The program selects the closest matching response by searching for the closest matching known statement that matches the input, it then returns the most likely response to that statement based on how frequently each response is issued by the people the bot communicates with.
+The iteration with the chatbot is possible thanks to AIML, Artificial Inteligence Markup Language, an XML dialect for creating natural language.
+Through different keywords the service is able to understand and recommend the parking locations asked from the user. 
+
 
 ## Installation
 
-This package can be installed from [PyPi](https://pypi.python.org/pypi/ChatterBot) by running:
-
-```
-pip install chatterbot
-```
-
-## Basic Usage
-
-```
-from chatterbot import ChatBot
-
-chatbot = ChatBot(
-    'Ron Obvious',
-    trainer='chatterbot.trainers.ChatterBotCorpusTrainer'
-)
-
-# Train based on the english corpus
-chatbot.train("chatterbot.corpus.english")
-
-# Get a response to an input statement
-chatbot.get_response("Hello, how are you today?")
-```
+work in progress
 
 # Training data
 
-ChatterBot comes with a data utility module that can be used to train chat bots.
-At the moment there is three languages, English, Spanish and Portuguese training data in this module. Contributions
-of additional training data or training data in other languages would be greatly
-appreciated. Take a look at the data files in the
-[chatterbot-corpus](https://github.com/gunthercox/chatterbot-corpus)
-package if you are interested in contributing.
+The training data used by the engine is contained in "standard" folder.
 
-```
-# Train based on the english corpus
-chatbot.train("chatterbot.corpus.english")
+At the moment, English training data is in this module. 
 
-# Train based on english greetings corpus
-chatbot.train("chatterbot.corpus.english.greetings")
-
-# Train based on the english conversations corpus
-chatbot.train("chatterbot.corpus.english.conversations")
-```
 
 **Corpus contributions are welcome! Please make a pull request.**
 
-# [Documentation](http://chatterbot.readthedocs.io/)
+# [Home Page](http://amsterdamsmartbot.herokuapp.com/)
 
 View the [documentation](http://chatterbot.readthedocs.io/)
 for ChatterBot on Read the Docs.
