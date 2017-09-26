@@ -124,10 +124,14 @@ http://amsterdamsmartbot.herokuapp.com/
 
 # Technologies
 
-[![Package Version](https://i.imgur.com/h8OS44o.jpg)](https://core.telegram.org/)
+[![Telegram Version](https://i.imgur.com/h8OS44o.jpg)](https://core.telegram.org/)
 
-[![Package Version](https://i.imgur.com/7jjFZ3zb.png)](https://www.python.org/downloads/release/python-352/)
+[![Python Version](https://i.imgur.com/7jjFZ3zb.png)](https://www.python.org/downloads/release/python-352/)
 
-[![Package Version](https://res.cloudinary.com/siftery/image/upload/v1444323049/v1/p/products/django.png)](https://www.djangoproject.com/start/overview/)
+[![Django Version](https://res.cloudinary.com/siftery/image/upload/v1444323049/v1/p/products/django.png)](https://www.djangoproject.com/start/overview/)
+
+[![PostGIS Version](https://www.iconattitude.com/icons/open_icon_library/apps/png/256/postgis.png)](http://postgis.net/)
+
+[![Heroku Version](https://cdn.iconscout.com/public/images/icon/free/png-256/heroku-company-brand-logo-3973db91061d38cd-256x256.png)](https://www.heroku.com/)
 
 
