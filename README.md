@@ -47,4 +47,4 @@ At the moment, English training data is in this module.
 ## [Home Page](http://amsterdamsmartbot.herokuapp.com/)
 
 # Examples
-[![Package Version](https://i.imgur.com/JhbzAxzm.png)](https://amsterdamsmartbot.herokuapp.com/static/images/screen/screen5.png)
+[![Package Version](https://i.imgur.com/JhbzAxzl.png)](https://i.imgur.com/JhbzAxzl.png)
