@@ -1,4 +1,4 @@
-![AmsterdamSMARTBOT: Machine learning in Python](http://imgur.com/xtQ2doK)
+![AmsterdamSMARTBOT: Machine learning in Python](https://i.imgur.com/xtQ2doK.png)
 
 # Smart BOT
 
