@@ -10,6 +10,7 @@ The specialization is for searching parking and electric charge points in AMSTER
 
 [![Package Version](https://res.cloudinary.com/siftery/image/upload/v1444323049/v1/p/products/django.png)](https://www.djangoproject.com/start/overview/)
 
+[![Package Version](https://i.imgur.com/h8OS44o.jpg)](https://core.telegram.org/)
 An example of typical input would be something like this:
 
 > **user:** Good morning! How are you doing?  
