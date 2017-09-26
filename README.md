@@ -1,5 +1,9 @@
 ![AmsterdamSMARTBOT: Machine learning in Python](https://i.imgur.com/KjrawLzb.png)
 
+<p align="center">
+  <img src="https://i.imgur.com/KjrawLzb.png">
+</p>
+
 # Smart BOT
 
 This chatbot has been developed to be used in Amsterdam smart city environment.
@@ -46,6 +50,7 @@ At the moment, English training data is in this module.
 [![Package Version](https://i.imgur.com/Zz8VxM2m.png)](https://i.imgur.com/Zz8VxM2m.png)
 [![Package Version](https://i.imgur.com/keujiv1m.png)](https://i.imgur.com/keujiv1m.png)
 [![Package Version](https://i.imgur.com/pvMRukvm.png)](https://i.imgur.com/pvMRukvm.png)
+
 
 
 # Technologies
