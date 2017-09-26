@@ -1,11 +1,10 @@
-![AmsterdamSMARTBOT: Machine learning in Python](https://i.imgur.com/KjrawLzb.png)
-
 <p align="center">
   <img width="256" height="288" src="https://i.imgur.com/KjrawLz.png">
 </p>
 
+<p align="center">
 # Smart BOT
-
+</p>
 This chatbot has been developed to be used in Amsterdam smart city environment.
 It is based on an interactive conversation with the user.
 The specialization is for searching parking and electric charge points in AMSTERDAM.
