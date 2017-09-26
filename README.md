@@ -2,12 +2,11 @@
 
 # Smart BOT
 
-ChatterBot is a machine-learning based conversational dialog engine build in
-Python which makes it possible to generate responses based on collections of
-known conversations. The language independent design of ChatterBot allows it
-to be trained to speak any language.
+This chatbot has been developed to be used in Amsterdam smart city environment.
+It is based on an interactive conversation with the user.
+The specialization is for searching parking and electric charge points in AMSTERDAM.
 
-[![Package Version](https://img.shields.io/pypi/v/chatterbot.svg)](https://pypi.python.org/pypi/chatterbot/)
+[![Package Version](python version)](https://www.python.org/downloads/release/python-352/)
 [![Requirements Status](https://requires.io/github/gunthercox/ChatterBot/requirements.svg?branch=master)](https://requires.io/github/gunthercox/ChatterBot/requirements/?branch=master)
 [![Build Status](https://travis-ci.org/gunthercox/ChatterBot.svg?branch=master)](https://travis-ci.org/gunthercox/ChatterBot)
 [![Documentation Status](https://readthedocs.org/projects/chatterbot/badge/?version=stable)](http://chatterbot.readthedocs.io/en/stable/?badge=stable)
