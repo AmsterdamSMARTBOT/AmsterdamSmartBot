@@ -2,7 +2,7 @@
   <img width="256" height="288" src="https://i.imgur.com/KjrawLz.png">
 </p>
 
-#<p align="center">Smart BOT</p>
+#Smart BOT
 
 
 This chatbot has been developed to be used in Amsterdam smart city environment.
@@ -32,9 +32,49 @@ The iteration with the chatbot is possible thanks to AIML, Artificial Inteligenc
 Through different keywords the service is able to understand and recommend the parking locations asked from the user. 
 
 
-## Installation
+#Installation
 
-work in progress
+Python version required: 3.5.2
+Pypi is suggested to install libraries for the virtual environment
+PostgreSQL version recommended: 9.5.6
+Heroku version required: Cedar-14 (if you want to migrate in an heroku platform)
+
+
+
+##Local Installation
+
+First of all, initialize the local virtual environment:
+```
+pip install virtualenv
+virtualenv venv
+venv\Scripts\activate
+```
+
+Install all the required libraries through this command:
+```
+pip install -r requirements.txt
+```
+
+Database settings
+```
+python manage.py makemigrations
+python manage.py migrate
+python manage.py createsuperuser
+```
+
+Run chatbot script
+```
+python main.py
+```
+
+Run web application
+```
+python manage.py runserver 0.0.0.0:8000
+```
+
+
+##Local Installation
+
 
 ## Training data
 
@@ -42,6 +82,9 @@ The training data used by the engine is contained in "standard" folder.
 At the moment, English training data is in this module. 
 
 ## [Home Page](http://amsterdamsmartbot.herokuapp.com/)
+
+This is the link to the web page where you can find an explanation about SmartBOT
+http://amsterdamsmartbot.herokuapp.com/
 
 # Examples
 
