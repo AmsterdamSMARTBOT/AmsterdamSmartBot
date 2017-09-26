@@ -2,7 +2,7 @@
   <img width="256" height="288" src="https://i.imgur.com/KjrawLz.png">
 </p>
 
-#Smart BOT
+# Smart BOT
 
 
 This chatbot has been developed to be used in Amsterdam smart city environment.
@@ -41,7 +41,7 @@ Heroku version required: Cedar-14 (if you want to migrate in an heroku platform)
 
 
 
-##Local Installation
+## Local Installation
 
 First of all, initialize the local virtual environment:
 ```
@@ -73,7 +73,7 @@ python manage.py runserver 0.0.0.0:8000
 ```
 
 
-##Local Installation
+## Local Installation
 
 
 ## Training data
