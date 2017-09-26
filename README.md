@@ -32,7 +32,7 @@ The iteration with the chatbot is possible thanks to AIML, Artificial Inteligenc
 Through different keywords the service is able to understand and recommend the parking locations asked from the user. 
 
 
-#Installation
+# Installation
 
 Python version required: 3.5.2
 Pypi is suggested to install libraries for the virtual environment
@@ -56,6 +56,8 @@ pip install -r requirements.txt
 ```
 
 Database settings
+
+Execute these commands to create tables and relations into local database
 ```
 python manage.py makemigrations
 python manage.py migrate
@@ -73,8 +75,33 @@ python manage.py runserver 0.0.0.0:8000
 ```
 
 
-## Local Installation
+## Heroku Installation
 
+```
+heroku login
+heroku create <nameAPP>
+heroku config:set DISABLE_COLLECTSTATIC=1
+heroku config:set BUILD_WITH_GEO_LIBRARIES=1
+git push heroku master
+heroku config:set DISABLE_COLLECTSTATIC=0 
+```
+
+Downgrade from HEROKU-16 to CEDAR-14 (GDAL library not supported on Heroku-16)
+```
+heroku stack:set cedar-14 
+git push heroku master
+```
+
+Database settings
+
+First of all, is needed to update database's informations from Heroku Dashboard into the settings.py file. In settings.py modify the dictionary DATABASES with the new informations (Engine, Host, User, Name, Password, Port)
+
+Execute these commands to create tables and relations into heroku database
+```
+heroku run python manage.py makemigrations
+heroku run python manage.py migrate
+heroku run python manage.py createsuperuser
+```
 
 ## Training data
 
