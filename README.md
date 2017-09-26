@@ -131,3 +131,9 @@ width="100" height="100"
   <img align="right"  src="https://cdn.iconscout.com/public/images/icon/free/png-256/heroku-company-brand-logo-3973db91061d38cd-256x256.png" href="https://www.heroku.com/">
 </p>
 
+<p>
+  <img align="left"  src="https://mutaz.net/img/icons/android/256/30.png" href="https://core.telegram.org/">
+  <img align="center"  src="http://austin.kidsoutandabout.com/sites/default/files/Python_0.png" href="https://www.python.org/downloads/release/python-352/">
+  <img align="right"  src="https://pbs.twimg.com/media/CN1Vv8WUcAAeUq4.png" href="https://enterprise.google.com/intl/en_uk/maps/?utm_source=cpc&utm_medium=google&utm_campaign=2016-geo-emea-endor-gmedia-search-gb-homepage&utm_content=gb%7Cen%7Chybr%7C1001878%7C%7Cbk%7Cbrand%7C%7Chomepage&ds_lpt_start=&ds_lpt_end=&gclid=EAIaIQobChMIhbTnv6_D1gIVQuEbCh1lCQzQEAAYASAAEgLZ6vD_BwE&dclid=CN3WmcGvw9YCFdiLUQodmxIDmQ">
+</p>
+
