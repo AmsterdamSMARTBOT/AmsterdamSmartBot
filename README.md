@@ -120,9 +120,16 @@ http://amsterdamsmartbot.herokuapp.com/
 [![Package Version](https://i.imgur.com/keujiv1m.png)](https://i.imgur.com/keujiv1m.png)
 [![Package Version](https://i.imgur.com/pvMRukvm.png)](https://i.imgur.com/pvMRukvm.png)
 
-
+width="256" height="288"
+width="100" height="100"
 
 # Technologies
+
+<p align="center">
+  <img align="left"  src="https://i.imgur.com/h8OS44o.jpg" href="https://core.telegram.org/">
+  <img align="right"  src="https://i.imgur.com/7jjFZ3zb.png" href="https://www.python.org/downloads/release/python-352/">
+</p>
+
 
 [![Telegram Version](https://i.imgur.com/h8OS44o.jpg)](https://core.telegram.org/)
 
