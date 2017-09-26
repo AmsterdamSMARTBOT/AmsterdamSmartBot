@@ -50,6 +50,5 @@ At the moment, English training data is in this module.
 
 [![Package Version](https://i.imgur.com/U9kk0KLm.png)](https://i.imgur.com/U9kk0KLm.png)
 [![Package Version](https://i.imgur.com/Zz8VxM2m.png)](https://i.imgur.com/Zz8VxM2m.png)
-
 [![Package Version](https://i.imgur.com/keujiv1m.png)](https://i.imgur.com/keujiv1m.png)
 [![Package Version](https://i.imgur.com/pvMRukvm.png)](https://i.imgur.com/pvMRukvm.png)
