@@ -50,7 +50,8 @@ At the moment, English training data is in this module.
 
 # Technologies
 
+[![Package Version](https://i.imgur.com/h8OS44o.jpg)](https://core.telegram.org/)
 [![Package Version](https://i.imgur.com/7jjFZ3zb.png)](https://www.python.org/downloads/release/python-352/)
 [![Package Version](https://res.cloudinary.com/siftery/image/upload/v1444323049/v1/p/products/django.png)](https://www.djangoproject.com/start/overview/)
-[![Package Version](https://i.imgur.com/h8OS44o.jpg)](https://core.telegram.org/)
+
 
