@@ -6,7 +6,7 @@ This chatbot has been developed to be used in Amsterdam smart city environment.
 It is based on an interactive conversation with the user.
 The specialization is for searching parking and electric charge points in AMSTERDAM.
 
-[![Package Version](python version)](https://www.python.org/downloads/release/python-352/)
+[![Package Version](http://aiubcc.org/public/img/content/thezenofpython.png)](https://www.python.org/downloads/release/python-352/)
 [![Requirements Status](https://requires.io/github/gunthercox/ChatterBot/requirements.svg?branch=master)](https://requires.io/github/gunthercox/ChatterBot/requirements/?branch=master)
 [![Build Status](https://travis-ci.org/gunthercox/ChatterBot.svg?branch=master)](https://travis-ci.org/gunthercox/ChatterBot)
 [![Documentation Status](https://readthedocs.org/projects/chatterbot/badge/?version=stable)](http://chatterbot.readthedocs.io/en/stable/?badge=stable)
@@ -18,7 +18,7 @@ An example of typical input would be something like this:
 
 > **user:** Good morning! How are you doing?  
 > **bot:**  I am doing very well, thank you for asking.  
-> **user:** You're welcome.  
+> **user:** You're welcome.
 > **bot:** Do you like hats?  
 
 ## How it works
