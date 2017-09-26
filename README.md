@@ -48,6 +48,6 @@ At the moment, English training data is in this module.
 
 # Examples
 
-[![Package Version](https://amsterdamsmartbot.herokuapp.com/static/images/screen/screen5.png](https://amsterdamsmartbot.herokuapp.com/static/images/screen/screen5.png])
+[![Package Version](https://amsterdamsmartbot.herokuapp.com/static/images/screen/screen5.png)](https://amsterdamsmartbot.herokuapp.com/static/images/screen/screen5.png])
 
-[![Package Version](https://amsterdamsmartbot.herokuapp.com/static/images/screen/screen1.png](https://amsterdamsmartbot.herokuapp.com/static/images/screen/screen1.png])
+[![Package Version](https://amsterdamsmartbot.herokuapp.com/static/images/screen/screen1.png)](https://amsterdamsmartbot.herokuapp.com/static/images/screen/screen1.png])
