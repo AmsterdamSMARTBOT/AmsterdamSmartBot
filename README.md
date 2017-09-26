@@ -6,12 +6,6 @@ This chatbot has been developed to be used in Amsterdam smart city environment.
 It is based on an interactive conversation with the user.
 The specialization is for searching parking and electric charge points in AMSTERDAM.
 
-[![Package Version](https://i.imgur.com/7jjFZ3zb.png)](https://www.python.org/downloads/release/python-352/)
-
-[![Package Version](https://res.cloudinary.com/siftery/image/upload/v1444323049/v1/p/products/django.png)](https://www.djangoproject.com/start/overview/)
-
-[![Package Version](https://i.imgur.com/h8OS44o.jpg)](https://core.telegram.org/)
-
 
 An example of typical input would be something like this:
 
@@ -52,4 +46,11 @@ At the moment, English training data is in this module.
 [![Package Version](https://i.imgur.com/Zz8VxM2m.png)](https://i.imgur.com/Zz8VxM2m.png)
 [![Package Version](https://i.imgur.com/keujiv1m.png)](https://i.imgur.com/keujiv1m.png)
 [![Package Version](https://i.imgur.com/pvMRukvm.png)](https://i.imgur.com/pvMRukvm.png)
-[![Package Version](https://i.imgur.com/Zkuqblum.png)](https://i.imgur.com/Zkuqblum.png)
+
+
+# Technologies
+
+[![Package Version](https://i.imgur.com/7jjFZ3zb.png)](https://www.python.org/downloads/release/python-352/)
+[![Package Version](https://res.cloudinary.com/siftery/image/upload/v1444323049/v1/p/products/django.png)](https://www.djangoproject.com/start/overview/)
+[![Package Version](https://i.imgur.com/h8OS44o.jpg)](https://core.telegram.org/)
+
