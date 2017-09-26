@@ -6,7 +6,7 @@ This chatbot has been developed to be used in Amsterdam smart city environment.
 It is based on an interactive conversation with the user.
 The specialization is for searching parking and electric charge points in AMSTERDAM.
 
-[![Package Version](https://pimg-guru.com/1/645/1645363/python_635593162234787477_guruImgLarge_fab83907-b086-4cdd-8ab7-ca1dfb1d3f92.jpg)](https://www.python.org/downloads/release/python-352/)
+[![Package Version](https://i.imgur.com/7jjFZ3zb.png)](https://www.python.org/downloads/release/python-352/)
 [![Package Version](https://res.cloudinary.com/siftery/image/upload/v1444323049/v1/p/products/django.png)](https://www.djangoproject.com/start/overview/)
 
 An example of typical input would be something like this:
