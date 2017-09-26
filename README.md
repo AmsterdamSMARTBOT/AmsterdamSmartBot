@@ -16,11 +16,17 @@ The specialization is for searching parking and electric charge points in AMSTER
 An example of typical input would be something like this:
 
 > **user:** Good morning! How are you doing?  
+
 > **smartBOT:**  Hello and how are you this morning? I'm doing great, how about you?  
+
 > **user:** I'm fine aswell
+
 > **smartBOT:** Glad to hear it 
+
 > **user:** Can you find me the closest parking in Amsterdam?
+
 > **smartBOT:** Yes, I was created to search parkings in Amsterdam
+
 > **smartBOT:** Would you mind shering your location to search the closest parking? ...  
 
 ## How it works
