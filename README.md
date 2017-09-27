@@ -35,8 +35,11 @@ Through different keywords the service is able to understand and recommend the p
 # Installation
 
 Python version required: 3.5.2
+
 Pypi is suggested to install libraries for the virtual environment
+
 PostgreSQL version recommended: 9.5.6
+
 Heroku version required: Cedar-14 (if you want to migrate in an heroku platform)
 
 
