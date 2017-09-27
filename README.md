@@ -40,7 +40,7 @@ Pypi is suggested to install libraries for the virtual environment
 
 PostgreSQL version recommended: 9.5.6
 
-Heroku version required: Cedar-14 (if you want to migrate in an heroku platform)
+Heroku version required: Cedar-14 (if you want to migrate in a heroku platform)
 
 
 
